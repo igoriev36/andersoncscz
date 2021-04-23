@@ -1,0 +1,12 @@
+{
+  "name": "andersoncscz",
+  "displayName": "andersoncscz",
+  "expo": {
+    "name": "andersoncscz",
+    "slug": "andersoncscz",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
